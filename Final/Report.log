@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.5.28)  14 MAY 2018 15:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.5.28)  14 MAY 2018 15:58
 entering extended mode
 **./Report.tex
 (Report.tex
@@ -873,6 +873,9 @@ Missing character: There is no € in font cmr12!
 Missing character: There is no  in font cmr12!
  [16] [17]
 Chapter 4.
+[18
+
+]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no œ in font cmr12!
@@ -880,21 +883,7 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no  in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--258
-
- []
-
-[18
-
-]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 259--261
+Underfull \hbox (badness 10000) in paragraph at lines 257--259
 
  []
 
@@ -905,7 +894,18 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--264
+Underfull \hbox (badness 10000) in paragraph at lines 260--262
+
+ []
+
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--265
 
  []
 
@@ -917,13 +917,13 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no  in font cmr12!
 
-Overfull \hbox (3.74825pt too wide) in paragraph at lines 265--266
+Overfull \hbox (3.74825pt too wide) in paragraph at lines 266--267
 []\OT1/cmr/m/n/12 Melzer from Kaiser Electro-Optics Inc. called HMDs per-sonal 
 information-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 267--269
+Underfull \hbox (badness 10000) in paragraph at lines 268--270
 
  []
 
@@ -934,13 +934,13 @@ Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--272
+Underfull \hbox (badness 10000) in paragraph at lines 271--273
 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 275.
+               Default added (so using `tbp') on input line 279.
 
 [20]
 Missing character: There is no â in font cmr12!
@@ -1079,7 +1079,7 @@ iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmti12.pfb>
-Output written on Report.pdf (36 pages, 206570 bytes).
+Output written on Report.pdf (36 pages, 206529 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
